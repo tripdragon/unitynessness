@@ -7,7 +7,6 @@ using Unity.Collections;
 
 namespace Narf {
 
-[RequireComponent(typeof(Battlehub.RTCommon.ExposeToEditor))]
 [RequireComponent(typeof(BoxCollider))]
 public class ChessPiece : MonoBehaviour
 {
